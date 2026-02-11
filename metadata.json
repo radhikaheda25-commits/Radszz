@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CloudBite - Gourmet Delivery",
+  "description": "A high-end cloud kitchen experience delivering gourmet meals with transparency, speed, and AI-driven recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
